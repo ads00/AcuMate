@@ -1,4 +1,4 @@
-# 🤖 ERP Copilot Framework
+# 🤖 Acumate - Acumatica ERP Copilot Framework
 
 An AI-powered assistant system for ERP applications with intelligent action suggestions and automated workflow execution.
 
@@ -223,3 +223,4 @@ Tests include:
 5. **Get intelligent suggestions** with exact API calls! 
 
 The AI will learn from user patterns and suggest the most relevant next actions using your exact ERP API configurations! 🚀
+
